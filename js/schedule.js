@@ -1,59 +1,65 @@
 const maydalawjy = [
   {
-    first_pair: "A.M.U.Y (amaly) / B11",
-    second_pair: "Sanly ykdysadyýet (amaly) / B05",
-    third_pair: "Operasion ulgamlary (amaly) / A09",
+    first_pair:
+      "Web programmirlemek (tejribe) / B404\nMaglumat tehn. nazaryýeti (tejribe) / A07",
+    second_pair: "Ykdysady nazaryýet (umumy) / A11",
   },
   {
-    first_pair: "Materiallaryň garşylygy (umumy) / B11",
-    second_pair: "Syýasaty öwreniş (amaly) / A06",
-    third_pair: "Materiallaryň garşylygy (amaly) / A06",
+    first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (umumy) / A04",
+    second_pair: "Pudagyň ykdysadyýeti (umumy) / A11",
+    third_pair: "Binagärlik (amaly) / A06",
   },
   {
-    first_pair: "Binagärlik (umumy) / B07",
-    second_pair: "Operasion ulgamlary (umumy) / B07",
-    third_pair: "H.T.T (tejribe) / BG2",
+    first_pair: "Maglumat tehn. nazaryýeti (umumy) / A08",
+    second_pair:
+      "Maglumat tehn. nazaryýeti (tejribe) / A07\nWeb programmirlemek (tejribe) / B09",
   },
   {
-    first_pair: "H.T.T (umumy) / B07",
-    second_pair: "Rus dili (amaly) / B06",
+    first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (amaly) / A06",
+    second_pair: "A.M.U we olary taslamak (umumy) / B05",
+    third_pair: "Rus dili (amaly) / A11",
   },
   {
-    first_pair: "Ulgamlaýyn programmirleme (umumy) / B07",
-    second_pair: "A.M.U.Y (umumy) / B07",
+    first_pair:
+      "A.M.U we olary taslamak (tejribe) / B402\nA.M.U we olary taslamak (tejribe) / B06",
+    second_pair: "Web programmirlemek (umumy) / B400",
+    third_pair: "Maglumat tehn. nazaryýeti (amaly) / A07",
   },
   {
-    first_pair: "Ulgamlaýyn programmirleme (tejribe) / BG2",
-    second_pair: "Operasion ulgamlary (tejribe) / B03",
+    first_pair: "A.M.U we olary taslamak (amaly) / B402",
+    second_pair: "Suw üpjünçiligi we kanalizasiya (umumy) / A04",
   },
 ];
 
 const sanawjy = [
   {
-    first_pair: "Syýasaty öwreniş (umumy) / B07",
-    second_pair: "Ulgamlaýyn programmirleme (amaly) / BG2",
-    third_pair: "H.T.T (amaly) / BG2",
+    first_pair:
+      "Web programmirlemek (tejribe) / B404\nMaglumat tehn. nazaryýeti (tejribe) / A07",
+    second_pair: "Ykdysady nazaryýet (umumy) / A11",
   },
   {
-    first_pair: "Materiallaryň garşylygy (umumy) / B11",
-    second_pair: "A.M.U.Y (tejribe) / B?\nA.M.U.Y (tejribe) / B?",
+    first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (umumy) / A04",
+    second_pair: "Pudagyň ykdysadyýeti (umumy) / A11",
     third_pair: "Binagärlik (amaly) / A06",
   },
   {
-    first_pair: "Binagärlik (umumy) / B07",
-    second_pair: "Operasion ulgamlary (umumy) / B07",
-    third_pair: "H.T.T (tejribe) / BG2",
+    first_pair: "Maglumat tehn. nazaryýeti (umumy) / A08",
+    second_pair:
+      "Maglumat tehn. nazaryýeti (tejribe) / A07\nWeb programmirlemek (tejribe) / B09",
   },
   {
-    first_pair: "H.T.T (umumy) / B07",
-    second_pair: "Rus dili (amaly) / B06",
+    first_pair: "Suw üpjünçiligi we kanalizasiya (amaly) / A07",
+    second_pair: "A.M.U we olary taslamak (umumy) / B05",
+    third_pair: "Rus dili (amaly) / A11",
   },
   {
-    first_pair: "Ulgamlaýyn programmirleme (umumy) / B07",
-    second_pair: "Sanly ykdysadyýet (umumy) / B07",
+    first_pair:
+      "A.M.U we olary taslamak (tejribe) / B402\nA.M.U we olary taslamak (tejribe) / B06",
+    second_pair: "Web programmirlemek (umumy) / B400",
+    third_pair: "Maglumat tehn. nazaryýeti (amaly) / A07",
   },
   {
-    first_pair: "Ulgamlaýyn programmirleme (tejribe) / BG2",
-    second_pair: "Operasion ulgamlary (tejribe) / B03",
+    first_pair: "Pudagyň ykdysadyýeti (amaly) / B05",
+    second_pair: "Suw üpjünçiligi we kanalizasiya (umumy) / A04",
   },
 ];
