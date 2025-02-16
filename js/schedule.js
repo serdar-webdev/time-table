@@ -3,11 +3,11 @@ const maydalawjy = [
     first_pair:
       "Web programmirlemek (tejribe) / B404\nMaglumat tehn. nazaryýeti (tejribe) / A07",
     second_pair: "Ykdysady nazaryýet (umumy) / A11",
+    third_pair: "Web programmirlemek (amaly) / B404",
   },
   {
     first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (umumy) / A04",
     second_pair: "Pudagyň ykdysadyýeti (umumy) / A11",
-    third_pair: "Binagärlik (amaly) / A06",
   },
   {
     first_pair: "Maglumat tehn. nazaryýeti (umumy) / A08",
@@ -36,11 +36,11 @@ const sanawjy = [
     first_pair:
       "Web programmirlemek (tejribe) / B404\nMaglumat tehn. nazaryýeti (tejribe) / A07",
     second_pair: "Ykdysady nazaryýet (umumy) / A11",
+    third_pair: "Web programmirlemek (amaly) / B404",
   },
   {
     first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (umumy) / A04",
     second_pair: "Pudagyň ykdysadyýeti (umumy) / A11",
-    third_pair: "Binagärlik (amaly) / A06",
   },
   {
     first_pair: "Maglumat tehn. nazaryýeti (umumy) / A08",
