@@ -7,7 +7,7 @@ const maydalawjy = [
   },
   {
     first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (umumy) / A04",
-    second_pair: "Pudagyň ykdysadyýeti (umumy) / A11",
+    second_pair: "Ykdysady nazaryýet (söhbet) / B10",
   },
   {
     first_pair: "Maglumat tehn. nazaryýeti (umumy) / A08",
