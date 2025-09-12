@@ -1,65 +1,59 @@
 const maydalawjy = [
   {
-    first_pair:
-      "Web programmirlemek (tejribe) / B404\nMaglumat tehn. nazaryýeti (tejribe) / A07",
-    second_pair: "Ykdysady nazaryýet (umumy) / A11",
-    third_pair: "Web programmirlemek (amaly) / B404",
+    first_pair: "Praktika",
   },
   {
-    first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (umumy) / A04",
-    second_pair: "Ykdysady nazaryýet (söhbet) / B10",
-  },
-  {
-    first_pair: "Maglumat tehn. nazaryýeti (umumy) / A08",
-    second_pair:
-      "Maglumat tehn. nazaryýeti (tejribe) / A07\nWeb programmirlemek (tejribe) / B09",
-  },
-  {
-    first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (amaly) / A06",
-    second_pair: "A.M.U we olary taslamak (umumy) / B05",
-    third_pair: "Rus dili (amaly) / A11",
+    first_pair: "Intellektual ulgamlary (umumy) / B12",
+    second_pair: "Ulgamlaýyn derňew we amallary derňew (umumy) / B12",
+    third_pair: "Nanotehnologiýanyň esaslary (tejribe) / B10",
   },
   {
     first_pair:
-      "A.M.U we olary taslamak (tejribe) / B402\nA.M.U we olary taslamak (tejribe) / B06",
-    second_pair: "Web programmirlemek (umumy) / B400",
-    third_pair: "Maglumat tehn. nazaryýeti (amaly) / A07",
+      "Metrologiýa standartlaşdyrmak we sertifkatlaşdyrmak (umumy) / B12",
+    second_pair: "Nanotehnologiýanyň esaslary (umumy) / B12",
+    third_pair: "Nanotehnologiýanyň esaslary (amaly) / B10",
   },
   {
-    first_pair: "A.M.U we olary taslamak (amaly) / B402",
-    second_pair: "Suw üpjünçiligi we kanalizasiya (umumy) / A04",
+    first_pair: "Maglumat howpsuzlygy (umumy) / B12",
+    second_pair: "Obýekte gönükdirilen derňew we dizaýn (umumy) / B12",
+  },
+  {
+    first_pair:
+      "Metrologiýa standartlaşdyrmak we sertifkatlaşdyrmak (tejribe) / B10",
+    second_pair: "Maglumat howpsuzlygy (tejribe) / B10",
+  },
+  {
+    first_pair: "Ulgamlaýyn derňew we amallary derňew (tejribe) / B10",
+    second_pair: "Obýekte gönükdirilen derňew we dizaýn (tejribe) / B10",
   },
 ];
 
 const sanawjy = [
   {
-    first_pair:
-      "Web programmirlemek (tejribe) / B404\nMaglumat tehn. nazaryýeti (tejribe) / A07",
-    second_pair: "Ykdysady nazaryýet (umumy) / A11",
-    third_pair: "Web programmirlemek (amaly) / B404",
+    first_pair: "Praktika",
   },
   {
-    first_pair: "Ýylylyk, gaz üpjünçiligi we howa çalşygy (umumy) / A04",
-    second_pair: "Pudagyň ykdysadyýeti (umumy) / A11",
-  },
-  {
-    first_pair: "Maglumat tehn. nazaryýeti (umumy) / A08",
-    second_pair:
-      "Maglumat tehn. nazaryýeti (tejribe) / A07\nWeb programmirlemek (tejribe) / B09",
-  },
-  {
-    first_pair: "Suw üpjünçiligi we kanalizasiya (amaly) / A07",
-    second_pair: "A.M.U we olary taslamak (umumy) / B05",
-    third_pair: "Rus dili (amaly) / A11",
+    first_pair: "Intellektual ulgamlary (amaly) / B10",
+    second_pair: "Ulgamlaýyn derňew we amallary derňew (umumy) / B12",
+    third_pair: "Nanotehnologiýanyň esaslary (tejribe) / B10",
   },
   {
     first_pair:
-      "A.M.U we olary taslamak (tejribe) / B402\nA.M.U we olary taslamak (tejribe) / B06",
-    second_pair: "Web programmirlemek (umumy) / B400",
-    third_pair: "Maglumat tehn. nazaryýeti (amaly) / A07",
+      "Metrologiýa standartlaşdyrmak we sertifkatlaşdyrmak (umumy) / B12",
+    second_pair: "Häzirki zaman türkmen jemgyýeti (umumy) / B12",
+    third_pair: "Häzirki zaman türkmen jemgyýeti (amaly) / B10",
   },
   {
-    first_pair: "Pudagyň ykdysadyýeti (amaly) / B05",
-    second_pair: "Suw üpjünçiligi we kanalizasiya (umumy) / A04",
+    first_pair: "Maglumat howpsuzlygy (umumy) / B12",
+    second_pair: "Obýekte gönükdirilen derňew we dizaýn (umumy) / B12",
+  },
+  {
+    first_pair:
+      "Metrologiýa standartlaşdyrmak we sertifkatlaşdyrmak (tejribe) / B10",
+    second_pair: "Maglumat howpsuzlygy (amaly) / B10",
+  },
+  {
+    first_pair: "Ulgamlaýyn derňew we amallary derňew (amaly) / B10",
+    second_pair: "Obýekte gönükdirilen derňew we dizaýn (amaly) / B10",
   },
 ];
