@@ -35,7 +35,7 @@ const sanawjy = [
   {
     first_pair: "Intellektual ulgamlary (amaly) / B10",
     second_pair: "Ulgamlaýyn derňew we amallary derňew (umumy) / B12",
-    third_pair: "Nanotehnologiýanyň esaslary (tejribe) / B10",
+    third_pair: "Intellektual ulgamlary (tejribe) / B10",
   },
   {
     first_pair:
@@ -57,3 +57,4 @@ const sanawjy = [
     second_pair: "Obýekte gönükdirilen derňew we dizaýn (amaly) / B10",
   },
 ];
+
