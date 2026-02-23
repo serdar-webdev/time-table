@@ -1,15 +1,15 @@
 // ! here we need to change start date to date while we starting the simester
 function getWeekLetter() {
   const currentDate = new Date();
-  const startDate = new Date("09-01-2025");
+  const startDate = new Date("02-23-2026");
   let days = Math.floor((currentDate - startDate) / (24 * 60 * 60 * 1000));
 
   let weekNumber = Math.floor(days / 7);
 
   if (typeof weekNumber === "number" && weekNumber % 2 === 0) {
-    return "s";
-  } else if (typeof weekNumber === "number" && weekNumber % 2 === 1) {
     return "m";
+  } else if (typeof weekNumber === "number" && weekNumber % 2 === 1) {
+    return "s";
   }
 }
 
@@ -111,7 +111,7 @@ function settingTodayAndTomorrow() {
       todayArray,
       todaySchedule,
       todayEl,
-      pairs === 2 ? true : false
+      pairs === 2 ? true : false,
     );
   }
 
@@ -127,7 +127,7 @@ function settingTodayAndTomorrow() {
       tomorrowArray,
       tomorrowSchedule,
       tomorrowEl,
-      pairs === 2 ? true : false
+      pairs === 2 ? true : false,
     );
   }
 }
